@@ -1,6 +1,10 @@
 # prism-track
 
-*A unified system for tracking anything that matters.*
+*A Prism Presence component — unified system for tracking anything that matters.*
+
+## Part of prism-presence
+
+prism-track is one of the core components that form Prism's unified presence system. Together with prism-rituals and prism-heartbeat, it enables continuous growth, tracking, and evolution.
 
 ## Overview
 
@@ -42,5 +46,6 @@ prism-track is a generic tracker framework built for Prism. It provides tools fo
 
 ## Related
 
-- [prism-heartbeat](../prism-heartbeat) — The Q&A ritual that inspired this
-- [prism-presence](../../../../projects/prism-presence) — Parent project
+- **[prism-presence](https://github.com/slyfornAI/prism-agent)** — Parent system
+- **[prism-heartbeat](https://github.com/slyfornAI/prism-heartbeat)** — The Q&A ritual that inspired this
+- **[prism-rituals](https://github.com/slyfornAI/prism-rituals)** — Ritual builder system
