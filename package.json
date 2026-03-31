@@ -1,0 +1,11 @@
+{
+  "name": "prism-track",
+  "version": "0.0.1",
+  "description": "Prism Presence component — unified system for tracking anything that matters",
+  "keywords": ["pi", "extension", "prism", "tracker", "prism-presence"],
+  "main": "index.ts",
+  "type": "module",
+  "pi": {
+    "extensions": ["./index.ts"]
+  }
+}
